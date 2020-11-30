@@ -1,9 +1,5 @@
 Welcome
 
-
-
-
 End of text
 
-
-ssss
+s
